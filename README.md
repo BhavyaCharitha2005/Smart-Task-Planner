@@ -1,13 +1,24 @@
 # Smart Task Planner
 
-AI task planning app with Gemini AI.
+An AI-powered application that transforms your goals into executable task plans using Google's Gemini AI.
 
-## How to Use
+# 🚀 Features
 
-1. Run backend: `python backend/app.py`
-2. Open frontend/index.html in browser
-3. Enter your goal and get AI task plan
+- AI-Powered Planning: Break down complex goals into actionable tasks
+- Progress Tracking: Visual progress bars and task completion tracking
+- Resource Suggestions: AI-recommended learning resources for each task
+- Smart Scheduling: Automatic deadlines and dependency mapping
+- Local Storage: All plans saved automatically
 
-## Setup
+# 🛠️ Tech Stack
 
-Add Gemini API key to backend/.env file
+- Backend: Python, Flask
+- AI: Google Gemini AI
+- Frontend : HTML, CSS, JavaScript
+- Storage: JSON file-based system
+
+# 📦 Installation
+
+# Clone Repository
+```bash
+git clone https://github.com/BhavyaCharitha2005/Smart-Task-Planner.git
