@@ -1,0 +1,393 @@
+[
+  {
+    "id": 1,
+    "goal": "Learn Python with storage",
+    "task_breakdown": "Task 1: Set up Python Development Environment (Install Python, Choose IDE/Text Editor)\n        Deadline: End of Week 1\n        Depends on: None\n\n        Task 2: Learn Python Basics (Data types, variables, operators, control flow, loops)\n        Deadline: End of Week 2\n        Depends on: Task 1\n\n        Task 3: Practice Python Basics (Solve coding challenges, work through basic exercises)\n        Deadline: End of Week 3\n        Depends on: Task 2\n\n        Task 4: Learn about Python's Built-in Data Structures (Lists, Dictionaries, Tuples, Sets)\n        Deadline: End of Week 4\n        Depends on: Task 2\n\n        Task 5: Practice using Python's Built-in Data Structures (Solve problems requiring use of lists, dictionaries, etc.)\n        Deadline: End of Week 5\n        Depends on: Task 4\n\n        Task 6: Introduction to File I/O in Python (Reading from and writing to text files)\n        Deadline: End of Week 6\n        Depends on: Task 3, Task 4\n\n        Task 7: Learn about working with CSV files in Python (Reading, writing, and manipulating CSV data)\n        Deadline: End of Week 7\n        Depends on: Task 6\n\n        Task 8: Introduction to SQLite (Install SQLite, understand basic database concepts)\n        Deadline: End of Week 8\n        Depends on: Task 3\n\n        Task 9: Interact with SQLite Databases using Python (Connect to a database, create tables, insert data, query data)\n        Deadline: End of Week 9\n        Depends on: Task 8\n\n        Task 10: Build a simple application using Python and SQLite (e.g., a simple to-do list or address book application)\n        Deadline: End of Week 10\n        Depends on: Task 9\n\n        Task 11: Learn about working with JSON data in Python (Reading, writing, and manipulating JSON data)\n        Deadline: End of Week 11\n        Depends on: Task 3, Task 4, Task 6\n\n        Task 12: (Optional) Explore other storage options (e.g., NoSQL databases like MongoDB or Cloud Storage like AWS S3)\n        Deadline: End of Week 12\n        Depends on: Task 10, Task 11\n",
+    "created_at": "2025-10-14T20:47:46.306083",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "goal": "Build a website with storage",
+    "task_breakdown": "Task 1: Define Website Purpose and Target Audience\n        Deadline: [1 week from start]\n        Depends on: [None]\n\n        Task 2: Determine Website Functionality and Storage Needs (e.g., user accounts, file uploads, database size)\n        Deadline: [1 week from start]\n        Depends on: [Task 1]\n\n        Task 3: Choose a Domain Name\n        Deadline: [1.5 weeks from start]\n        Depends on: [Task 1, Task 2 (understanding basic functionality)]\n\n        Task 4: Register Domain Name\n        Deadline: [1.5 weeks from start]\n        Depends on: [Task 3]\n\n        Task 5: Select Hosting Provider and Storage Solution (e.g., shared hosting, VPS, cloud storage like AWS S3, Google Cloud Storage, or dedicated database)\n        Deadline: [2 weeks from start]\n        Depends on: [Task 2]\n\n        Task 6: Set up Hosting Account and Storage\n        Deadline: [2.5 weeks from start]\n        Depends on: [Task 5, Task 4 (DNS Propagation may take time)]\n\n        Task 7: Choose a Website Building Platform (e.g., WordPress, static site generator, custom coding)\n        Deadline: [2 weeks from start]\n        Depends on: [Task 2, Task 5]\n\n        Task 8: Set up Website Building Platform (e.g., install WordPress, configure static site generator)\n        Deadline: [3 weeks from start]\n        Depends on: [Task 6, Task 7]\n\n        Task 9: Design Website Layout and User Interface (UI)\n        Deadline: [4 weeks from start]\n        Depends on: [Task 1, Task 7]\n\n        Task 10: Develop Website Frontend (HTML, CSS, JavaScript)\n        Deadline: [6 weeks from start]\n        Depends on: [Task 8, Task 9]\n\n        Task 11: Develop Website Backend (Server-side logic, database interactions, API endpoints if needed)\n        Deadline: [7 weeks from start]\n        Depends on: [Task 6, Task 8, Task 10]\n\n        Task 12: Integrate Storage Solution with Website (e.g., file upload functionality, user data storage)\n        Deadline: [8 weeks from start]\n        Depends on: [Task 6, Task 11]\n\n        Task 13: Implement Security Measures (SSL certificate, input validation, authentication)\n        Deadline: [8 weeks from start]\n        Depends on: [Task 10, Task 11, Task 12]\n\n        Task 14: Test Website Functionality (thoroughly test all features)\n        Deadline: [9 weeks from start]\n        Depends on: [Task 10, Task 11, Task 12, Task 13]\n\n        Task 15: Deploy Website to Production Server\n        Deadline: [9.5 weeks from start]\n        Depends on: [Task 14]\n\n        Task 16: Monitor Website Performance and Storage Usage\n        Deadline: [Ongoing]\n        Depends on: [Task 15]\n\n        Task 17: Website Promotion and Marketing\n        Deadline: [Ongoing, start with deployment]\n        Depends on: [Task 15]\n",
+    "created_at": "2025-10-14T20:47:51.528002",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "goal": "Launch a product in 2 weeks",
+    "task_breakdown": "Okay, here's a breakdown of launching a product in 2 weeks into actionable tasks, deadlines, and dependencies:\n\nTask 1: Define Minimum Viable Product (MVP) Features\nDeadline: Day 1\nDepends on: None\n\nTask 2: Finalize Product Feature Set & Scope\nDeadline: Day 1\nDepends on: Task 1\n\nTask 3: Design/Finalize Key Marketing Messages & Positioning\nDeadline: Day 2\nDepends on: Task 2\n\nTask 4: Create Basic Landing Page/Product Page\nDeadline: Day 3\nDepends on: Task 3\n\nTask 5: Develop/Test Core Product Functionality\nDeadline: Day 5\nDepends on: Task 2\n\nTask 6: Secure Necessary Infrastructure (servers, hosting, etc.)\nDeadline: Day 5\nDepends on: Task 2\n\nTask 7: Integrate Payment Processing (if applicable)\nDeadline: Day 6\nDepends on: Task 5, Task 6\n\nTask 8: User Acceptance Testing (UAT) & Bug Fixing\nDeadline: Day 8\nDepends on: Task 5, Task 7\n\nTask 9: Write Essential Product Documentation (FAQ, basic user guide)\nDeadline: Day 9\nDepends on: Task 5\n\nTask 10: Finalize Legal & Compliance Checks (Terms of Service, Privacy Policy)\nDeadline: Day 9\nDepends on: Task 2\n\nTask 11: Create Launch Announcement/Marketing Materials (Social Media, Email)\nDeadline: Day 10\nDepends on: Task 3\n\nTask 12: Implement Basic Analytics Tracking\nDeadline: Day 11\nDepends on: Task 4\n\nTask 13: Final QA & Pre-Launch Checklists\nDeadline: Day 12\nDepends on: Task 8, Task 9, Task 10, Task 12\n\nTask 14: Schedule Launch Announcement (Email, Social Media)\nDeadline: Day 13\nDepends on: Task 11, Task 13\n\nTask 15: Deploy Product to Production Environment\nDeadline: Day 14\nDepends on: Task 13\n\nTask 16: Monitor Launch Performance & Initial Feedback\nDeadline: Ongoing after launch (Day 14+)\nDepends on: Task 15\n",
+    "created_at": "2025-10-14T21:16:23.678740",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "goal": "Learn web development in 2 months",
+    "task_breakdown": "Here's a breakdown of the goal \"Learn web development in 2 months\" into actionable tasks with suggested deadlines and dependencies:\n\nTask 1: Choose a learning path (Frontend, Backend, Full-stack)\nDeadline: Week 1, Day 3\nDepends on: None\n\nTask 2: Select specific technologies based on chosen path (e.g., Frontend: HTML, CSS, JavaScript; Backend: Python/Django, Node.js/Express; Full-stack: MERN Stack)\nDeadline: Week 1, Day 7\nDepends on: Task 1\n\nTask 3: Set up development environment (code editor, browser, necessary tools)\nDeadline: Week 1, Day 7\nDepends on: Task 2\n\nTask 4: Learn HTML fundamentals (structure, elements, attributes)\nDeadline: Week 2, Day 3\nDepends on: Task 3\n\nTask 5: Practice HTML by building basic static web pages\nDeadline: Week 2, Day 7\nDepends on: Task 4\n\nTask 6: Learn CSS fundamentals (selectors, properties, box model)\nDeadline: Week 3, Day 3\nDepends on: Task 5\n\nTask 7: Practice CSS by styling existing HTML pages and creating responsive layouts\nDeadline: Week 3, Day 7\nDepends on: Task 6\n\nTask 8: Learn JavaScript fundamentals (variables, data types, operators, control flow)\nDeadline: Week 4, Day 3\nDepends on: Task 7\n\nTask 9: Practice JavaScript by manipulating the DOM and adding interactivity to web pages\nDeadline: Week 4, Day 7\nDepends on: Task 8\n\nTask 10: Learn about version control (Git) and use a platform like GitHub\nDeadline: Week 5, Day 3\nDepends on: Task 9\n\nTask 11: Start a personal web development project (e.g., simple portfolio, to-do list)\nDeadline: Week 5, Day 7\nDepends on: Task 10\n\nTask 12: Depending on path, Learn Backend fundamentals (databases, APIs, server-side languages) or dive deeper into Frontend Frameworks (React, Angular, Vue.js).\nDeadline: Week 6, Day 7\nDepends on: Task 11\n\nTask 13: Continue working on personal project, incorporating newly learned backend or advanced frontend concepts.\nDeadline: Week 7, Day 7\nDepends on: Task 12\n\nTask 14: Refactor and improve project code, focusing on best practices and code quality.\nDeadline: Week 8, Day 3\nDepends on: Task 13\n\nTask 15: Deploy the project to a web server (e.g., Netlify, Heroku).\nDeadline: Week 8, Day 7\nDepends on: Task 14\n",
+    "created_at": "2025-10-14T22:23:34.867304",
+    "completed": false,
+    "completion_percentage": 6,
+    "tasks": [
+      {
+        "description": "Task 1: Choose a learning path (Frontend, Backend, Full-stack)",
+        "completed": true,
+        "task_index": 0
+      },
+      {
+        "description": "Task 2: Select specific technologies based on chosen path (e.g., Frontend: HTML, CSS, JavaScript; Backend: Python/Django, Node.js/Express; Full-stack: MERN Stack)",
+        "completed": false,
+        "task_index": 1
+      },
+      {
+        "description": "Task 3: Set up development environment (code editor, browser, necessary tools)",
+        "completed": false,
+        "task_index": 2
+      },
+      {
+        "description": "Task 4: Learn HTML fundamentals (structure, elements, attributes)",
+        "completed": false,
+        "task_index": 3
+      },
+      {
+        "description": "Task 5: Practice HTML by building basic static web pages",
+        "completed": false,
+        "task_index": 4
+      },
+      {
+        "description": "Task 6: Learn CSS fundamentals (selectors, properties, box model)",
+        "completed": false,
+        "task_index": 5
+      },
+      {
+        "description": "Task 7: Practice CSS by styling existing HTML pages and creating responsive layouts",
+        "completed": false,
+        "task_index": 6
+      },
+      {
+        "description": "Task 8: Learn JavaScript fundamentals (variables, data types, operators, control flow)",
+        "completed": false,
+        "task_index": 7
+      },
+      {
+        "description": "Task 9: Practice JavaScript by manipulating the DOM and adding interactivity to web pages",
+        "completed": false,
+        "task_index": 8
+      },
+      {
+        "description": "Task 10: Learn about version control (Git) and use a platform like GitHub",
+        "completed": false,
+        "task_index": 9
+      },
+      {
+        "description": "Task 11: Start a personal web development project (e.g., simple portfolio, to-do list)",
+        "completed": false,
+        "task_index": 10
+      },
+      {
+        "description": "Task 12: Depending on path, Learn Backend fundamentals (databases, APIs, server-side languages) or dive deeper into Frontend Frameworks (React, Angular, Vue.js).",
+        "completed": false,
+        "task_index": 11
+      },
+      {
+        "description": "Task 13: Continue working on personal project, incorporating newly learned backend or advanced frontend concepts.",
+        "completed": false,
+        "task_index": 12
+      },
+      {
+        "description": "Task 14: Refactor and improve project code, focusing on best practices and code quality.",
+        "completed": false,
+        "task_index": 13
+      },
+      {
+        "description": "Task 15: Deploy the project to a web server (e.g., Netlify, Heroku).",
+        "completed": false,
+        "task_index": 14
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "goal": "Learn Python in 1 month",
+    "task_breakdown": "Task 1: Define Learning Goals & Choose Learning Resources (e.g., specific online course, book, tutorial series)\nDeadline: Day 2\nDepends on: None\n\nTask 2: Set up Python Development Environment (Install Python, choose an IDE/Text Editor, configure environment)\nDeadline: Day 3\nDepends on: Task 1\n\nTask 3: Learn Basic Python Syntax and Data Types (Variables, operators, strings, numbers, booleans, lists, tuples, dictionaries, sets)\nDeadline: Day 7\nDepends on: Task 2\n\nTask 4: Practice Basic Syntax and Data Types (Solve coding challenges/exercises focusing on syntax and data structures)\nDeadline: Day 8\nDepends on: Task 3\n\nTask 5: Learn Control Flow (if/else statements, for loops, while loops)\nDeadline: Day 11\nDepends on: Task 3\n\nTask 6: Practice Control Flow (Solve coding challenges/exercises utilizing if/else statements and loops)\nDeadline: Day 12\nDepends on: Task 5\n\nTask 7: Learn Functions (Defining functions, calling functions, arguments, return values)\nDeadline: Day 15\nDepends on: Task 5\n\nTask 8: Practice Functions (Write functions to solve specific problems, utilize function parameters and return values)\nDeadline: Day 16\nDepends on: Task 7\n\nTask 9: Learn about Modules and Packages (Importing modules, using built-in modules, creating custom modules)\nDeadline: Day 19\nDepends on: Task 7\n\nTask 10: Practice Modules and Packages (Import and use standard Python modules like `math`, `datetime`, `random`. Try creating a simple custom module.)\nDeadline: Day 20\nDepends on: Task 9\n\nTask 11: Learn Object-Oriented Programming (OOP) Basics (Classes, objects, inheritance, polymorphism, encapsulation)\nDeadline: Day 24\nDepends on: Task 9\n\nTask 12: Practice OOP (Create classes and objects, implement inheritance and polymorphism, work on a small OOP project)\nDeadline: Day 25\nDepends on: Task 11\n\nTask 13: Choose a Small Project (Define a simple project to implement your Python knowledge, e.g., a basic calculator, a simple game, a data analysis script)\nDeadline: Day 26\nDepends on: Task 12\n\nTask 14: Work on the Project - Planning and Initial Implementation\nDeadline: Day 28\nDepends on: Task 13\n\nTask 15: Continue Working on the Project - Refinement and Bug Fixes\nDeadline: Day 30\nDepends on: Task 14\n",
+    "created_at": "2025-10-14T22:26:38.250791",
+    "completed": false,
+    "completion_percentage": 0,
+    "tasks": [
+      {
+        "description": "Task 1: Define Learning Goals & Choose Learning Resources (e.g., specific online course, book, tutorial series)",
+        "completed": false,
+        "task_index": 0
+      },
+      {
+        "description": "Task 2: Set up Python Development Environment (Install Python, choose an IDE/Text Editor, configure environment)",
+        "completed": false,
+        "task_index": 1
+      },
+      {
+        "description": "Task 3: Learn Basic Python Syntax and Data Types (Variables, operators, strings, numbers, booleans, lists, tuples, dictionaries, sets)",
+        "completed": false,
+        "task_index": 2
+      },
+      {
+        "description": "Task 4: Practice Basic Syntax and Data Types (Solve coding challenges/exercises focusing on syntax and data structures)",
+        "completed": false,
+        "task_index": 3
+      },
+      {
+        "description": "Task 5: Learn Control Flow (if/else statements, for loops, while loops)",
+        "completed": false,
+        "task_index": 4
+      },
+      {
+        "description": "Task 6: Practice Control Flow (Solve coding challenges/exercises utilizing if/else statements and loops)",
+        "completed": false,
+        "task_index": 5
+      },
+      {
+        "description": "Task 7: Learn Functions (Defining functions, calling functions, arguments, return values)",
+        "completed": false,
+        "task_index": 6
+      },
+      {
+        "description": "Task 8: Practice Functions (Write functions to solve specific problems, utilize function parameters and return values)",
+        "completed": false,
+        "task_index": 7
+      },
+      {
+        "description": "Task 9: Learn about Modules and Packages (Importing modules, using built-in modules, creating custom modules)",
+        "completed": false,
+        "task_index": 8
+      },
+      {
+        "description": "Task 10: Practice Modules and Packages (Import and use standard Python modules like `math`, `datetime`, `random`. Try creating a simple custom module.)",
+        "completed": false,
+        "task_index": 9
+      },
+      {
+        "description": "Task 11: Learn Object-Oriented Programming (OOP) Basics (Classes, objects, inheritance, polymorphism, encapsulation)",
+        "completed": false,
+        "task_index": 10
+      },
+      {
+        "description": "Task 12: Practice OOP (Create classes and objects, implement inheritance and polymorphism, work on a small OOP project)",
+        "completed": false,
+        "task_index": 11
+      },
+      {
+        "description": "Task 13: Choose a Small Project (Define a simple project to implement your Python knowledge, e.g., a basic calculator, a simple game, a data analysis script)",
+        "completed": false,
+        "task_index": 12
+      },
+      {
+        "description": "Task 14: Work on the Project - Planning and Initial Implementation",
+        "completed": false,
+        "task_index": 13
+      },
+      {
+        "description": "Task 15: Continue Working on the Project - Refinement and Bug Fixes",
+        "completed": false,
+        "task_index": 14
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "goal": "Learn mehendi in 1 week",
+    "task_breakdown": "Okay, here's the breakdown of learning mehendi in one week:\n\nTask 1: Research basic mehendi information (history, types, ingredients, safety)\nDeadline: Day 1\nDepends on: None\n\nTask 2: Gather necessary supplies (mehendi cones/paste, practice sheets, designs)\nDeadline: Day 1 (End of Day)\nDepends on: Task 1\n\nTask 3: Practice basic shapes (dots, lines, circles, teardrops)\nDeadline: Day 2\nDepends on: Task 2\n\nTask 4: Practice basic mehendi elements (paisleys, leaves, flowers)\nDeadline: Day 3\nDepends on: Task 3\n\nTask 5: Learn how to hold and apply mehendi cone correctly with even pressure\nDeadline: Day 3\nDepends on: Task 3\n\nTask 6: Copy simple mehendi designs from books or online sources. Focus on accuracy.\nDeadline: Day 4\nDepends on: Task 4, Task 5\n\nTask 7: Practice increasingly complex mehendi designs.\nDeadline: Day 5\nDepends on: Task 6\n\nTask 8: Identify personal weaknesses (e.g., shaky lines, uneven pressure) and practice specific exercises to overcome them.\nDeadline: Day 6\nDepends on: Task 7\n\nTask 9: Apply a small mehendi design on yourself or a willing volunteer.\nDeadline: Day 6 (End of Day)\nDepends on: Task 7\n\nTask 10: Evaluate the applied design, identify areas for improvement, and practice those specific aspects.\nDeadline: Day 7\nDepends on: Task 9\n\nTask 11: Apply a larger, more intricate mehendi design on yourself or a volunteer.\nDeadline: Day 7 (End of Day)\nDepends on: Task 10\n",
+    "created_at": "2025-10-14T22:34:36.434221",
+    "completed": false,
+    "completion_percentage": 0,
+    "tasks": [
+      {
+        "description": "Task 1: Research basic mehendi information (history, types, ingredients, safety)",
+        "completed": false,
+        "task_index": 0
+      },
+      {
+        "description": "Task 2: Gather necessary supplies (mehendi cones/paste, practice sheets, designs)",
+        "completed": false,
+        "task_index": 1
+      },
+      {
+        "description": "Task 3: Practice basic shapes (dots, lines, circles, teardrops)",
+        "completed": false,
+        "task_index": 2
+      },
+      {
+        "description": "Task 4: Practice basic mehendi elements (paisleys, leaves, flowers)",
+        "completed": false,
+        "task_index": 3
+      },
+      {
+        "description": "Task 5: Learn how to hold and apply mehendi cone correctly with even pressure",
+        "completed": false,
+        "task_index": 4
+      },
+      {
+        "description": "Task 6: Copy simple mehendi designs from books or online sources. Focus on accuracy.",
+        "completed": false,
+        "task_index": 5
+      },
+      {
+        "description": "Task 7: Practice increasingly complex mehendi designs.",
+        "completed": false,
+        "task_index": 6
+      },
+      {
+        "description": "Task 8: Identify personal weaknesses (e.g., shaky lines, uneven pressure) and practice specific exercises to overcome them.",
+        "completed": false,
+        "task_index": 7
+      },
+      {
+        "description": "Task 9: Apply a small mehendi design on yourself or a willing volunteer.",
+        "completed": false,
+        "task_index": 8
+      },
+      {
+        "description": "Task 10: Evaluate the applied design, identify areas for improvement, and practice those specific aspects.",
+        "completed": false,
+        "task_index": 9
+      },
+      {
+        "description": "Task 11: Apply a larger, more intricate mehendi design on yourself or a volunteer.",
+        "completed": false,
+        "task_index": 10
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "goal": "Learn mehendi in 1 week",
+    "task_breakdown": "Okay, here's the breakdown of learning mehendi in one week:\n\nTask 1: Research Mehendi Basics and Styles (Indian, Arabic, Pakistani, etc.)\nDeadline: Day 1\nDepends on: None\n\nTask 2: Gather Supplies (Henna cones/paste, practice paper, pen/pencil, design stencils - optional, essential oil - optional)\nDeadline: Day 1\nDepends on: Task 1\n\nTask 3: Practice Basic Shapes and Lines (Dots, lines, circles, teardrops, paisley, etc.) on Paper\nDeadline: Day 2\nDepends on: Task 2\n\nTask 4: Learn basic mehendi cone handling and pressure control techniques (how to hold the cone, apply consistent pressure for even lines)\nDeadline: Day 2\nDepends on: Task 3\n\nTask 5: Practice Simple Mehendi Designs on Paper (Repeat patterns, small floral designs)\nDeadline: Day 3\nDepends on: Task 4\n\nTask 6: Watch Mehendi Tutorials (Focus on hand and feet designs)\nDeadline: Day 3\nDepends on: Task 5\n\nTask 7: Practice on Self (Start with a small area, like the palm of your hand or ankle)\nDeadline: Day 4\nDepends on: Task 6\n\nTask 8: Practice on Others (Ask a friend or family member to let you practice on them)\nDeadline: Day 5\nDepends on: Task 7\n\nTask 9: Review and Correct Mistakes (Identify areas for improvement and re-practice those techniques)\nDeadline: Day 6\nDepends on: Task 8\n\nTask 10: Design and Apply a More Complex Mehendi Design (Combining learned elements)\nDeadline: Day 7\nDepends on: Task 9\n\nTask 11: Final Review & Future Learning (Assess your progress, identify areas for continued improvement and plan further learning strategies)\nDeadline: Day 7\nDepends on: Task 10\n",
+    "created_at": "2025-10-14T22:34:38.039594",
+    "completed": false,
+    "completion_percentage": 0,
+    "tasks": [
+      {
+        "description": "Task 1: Research Mehendi Basics and Styles (Indian, Arabic, Pakistani, etc.)",
+        "completed": false,
+        "task_index": 0
+      },
+      {
+        "description": "Task 2: Gather Supplies (Henna cones/paste, practice paper, pen/pencil, design stencils - optional, essential oil - optional)",
+        "completed": false,
+        "task_index": 1
+      },
+      {
+        "description": "Task 3: Practice Basic Shapes and Lines (Dots, lines, circles, teardrops, paisley, etc.) on Paper",
+        "completed": false,
+        "task_index": 2
+      },
+      {
+        "description": "Task 4: Learn basic mehendi cone handling and pressure control techniques (how to hold the cone, apply consistent pressure for even lines)",
+        "completed": false,
+        "task_index": 3
+      },
+      {
+        "description": "Task 5: Practice Simple Mehendi Designs on Paper (Repeat patterns, small floral designs)",
+        "completed": false,
+        "task_index": 4
+      },
+      {
+        "description": "Task 6: Watch Mehendi Tutorials (Focus on hand and feet designs)",
+        "completed": false,
+        "task_index": 5
+      },
+      {
+        "description": "Task 7: Practice on Self (Start with a small area, like the palm of your hand or ankle)",
+        "completed": false,
+        "task_index": 6
+      },
+      {
+        "description": "Task 8: Practice on Others (Ask a friend or family member to let you practice on them)",
+        "completed": false,
+        "task_index": 7
+      },
+      {
+        "description": "Task 9: Review and Correct Mistakes (Identify areas for improvement and re-practice those techniques)",
+        "completed": false,
+        "task_index": 8
+      },
+      {
+        "description": "Task 10: Design and Apply a More Complex Mehendi Design (Combining learned elements)",
+        "completed": false,
+        "task_index": 9
+      },
+      {
+        "description": "Task 11: Final Review & Future Learning (Assess your progress, identify areas for continued improvement and plan further learning strategies)",
+        "completed": false,
+        "task_index": 10
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "goal": "Learn Guitar in weeks",
+    "task_breakdown": "Task 1: Research different types of guitars and pick one suitable for beginners (acoustic/electric/classical).\nDeadline: End of Week 1\nDepends on: None\n\nTask 2: Purchase or rent a guitar and necessary accessories (picks, tuner, strap, case).\nDeadline: Mid Week 2\nDepends on: Task 1\n\nTask 3: Learn basic guitar anatomy (strings, frets, tuning pegs, etc.).\nDeadline: End of Week 2\nDepends on: Task 2\n\nTask 4: Learn how to properly tune the guitar using a tuner (electronic or app).\nDeadline: End of Week 2\nDepends on: Task 3\n\nTask 5: Learn how to hold the guitar correctly and proper hand positioning.\nDeadline: Beginning of Week 3\nDepends on: Task 3\n\nTask 6: Learn basic strumming patterns (down strokes, up strokes).\nDeadline: Mid Week 3\nDepends on: Task 5\n\nTask 7: Learn 3-4 basic chords (e.g., Em, G, C, D).\nDeadline: End of Week 4\nDepends on: Task 6\n\nTask 8: Practice transitioning between the learned chords.\nDeadline: End of Week 5\nDepends on: Task 7\n\nTask 9: Learn a simple song using the learned chords.\nDeadline: End of Week 6\nDepends on: Task 8\n\nTask 10: Dedicate at least 30 minutes each day to practicing.\nDeadline: Ongoing from Week 3\nDepends on: Task 5, Task 6\n\nTask 11: Find online resources (YouTube tutorials, websites) for lessons and practice materials.\nDeadline: End of Week 1\nDepends on: None\n\nTask 12: Record your playing and listen back to identify areas for improvement.\nDeadline: Every other week starting Week 4\nDepends on: Task 8\n",
+    "created_at": "2025-10-14T22:53:11.815360",
+    "completed": false,
+    "completion_percentage": 25,
+    "tasks": [
+      {
+        "description": "Task 1: Research different types of guitars and pick one suitable for beginners (acoustic/electric/classical).",
+        "completed": true,
+        "task_index": 0
+      },
+      {
+        "description": "Task 2: Purchase or rent a guitar and necessary accessories (picks, tuner, strap, case).",
+        "completed": true,
+        "task_index": 1
+      },
+      {
+        "description": "Task 3: Learn basic guitar anatomy (strings, frets, tuning pegs, etc.).",
+        "completed": true,
+        "task_index": 2
+      },
+      {
+        "description": "Task 4: Learn how to properly tune the guitar using a tuner (electronic or app).",
+        "completed": false,
+        "task_index": 3
+      },
+      {
+        "description": "Task 5: Learn how to hold the guitar correctly and proper hand positioning.",
+        "completed": false,
+        "task_index": 4
+      },
+      {
+        "description": "Task 6: Learn basic strumming patterns (down strokes, up strokes).",
+        "completed": false,
+        "task_index": 5
+      },
+      {
+        "description": "Task 7: Learn 3-4 basic chords (e.g., Em, G, C, D).",
+        "completed": false,
+        "task_index": 6
+      },
+      {
+        "description": "Task 8: Practice transitioning between the learned chords.",
+        "completed": false,
+        "task_index": 7
+      },
+      {
+        "description": "Task 9: Learn a simple song using the learned chords.",
+        "completed": false,
+        "task_index": 8
+      },
+      {
+        "description": "Task 10: Dedicate at least 30 minutes each day to practicing.",
+        "completed": false,
+        "task_index": 9
+      },
+      {
+        "description": "Task 11: Find online resources (YouTube tutorials, websites) for lessons and practice materials.",
+        "completed": false,
+        "task_index": 10
+      },
+      {
+        "description": "Task 12: Record your playing and listen back to identify areas for improvement.",
+        "completed": false,
+        "task_index": 11
+      }
+    ]
+  }
+]
