@@ -8,7 +8,14 @@ An AI-powered application that transforms your goals into executable task plans 
 - Progress Tracking: Visual progress bars and task completion tracking
 - Resource Suggestions: AI-recommended learning resources for each task
 - Smart Scheduling: Automatic deadlines and dependency mapping
-- Local Storage: All plans saved automatically
+- Local Storage: All plans saved automatically.
+
+  # 🚀 Quick Demo
+
+1. Enter any goal: "Learn guitar in 6 weeks"
+2. Get AI-generated task plan with deadlines
+3. Track progress with interactive checkboxes
+4. Access learning resources for each task
 
 # 🛠️ Tech Stack
 
@@ -35,15 +42,6 @@ cd Smart-Task-Planner
    
 ## Dependencies: Flask, Google Generative AI, Python Dotenv, Flask CORS
    
-# 🚀 Quick Demo
-
-1. Enter any goal: "Learn guitar in 6 weeks"
-2. Get AI-generated task plan with deadlines
-3. Track progress with interactive checkboxes
-4. Access learning resources for each task
-
-https://github.com/user-attachments/assets/999e9e2e-2b90-48b2-994e-a45886ac730b
-
-# Clone Repository
+   # Clone Repository
 ```bash
 git clone https://github.com/BhavyaCharitha2005/Smart-Task-Planner.git
