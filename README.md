@@ -42,6 +42,8 @@ cd Smart-Task-Planner
 3. Track progress with interactive checkboxes
 4. Access learning resources for each task
 
+https://github.com/user-attachments/assets/999e9e2e-2b90-48b2-994e-a45886ac730b
+
 # Clone Repository
 ```bash
 git clone https://github.com/BhavyaCharitha2005/Smart-Task-Planner.git
