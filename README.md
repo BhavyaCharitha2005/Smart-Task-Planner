@@ -15,7 +15,9 @@ An AI-powered application that transforms your goals into executable task plans 
 1. Enter any goal: "Learn guitar in 6 weeks"
 2. Get AI-generated task plan with deadlines
 3. Track progress with interactive checkboxes
-4. Access learning resources for each task
+4. Access learning resources for each task.
+   
+   https://github.com/user-attachments/assets/0a2b254f-353a-4383-8d0e-643db8e706f0
 
 # 🛠️ Tech Stack
 
